@@ -1,3 +1,5 @@
+Modified for verbosity on installs out of personal preference and changed all the go_get to go_get_install function and added @latest to the url
+
 <h1 align="center">
   <br>
   <a href="https://github.com/JoyGhoshs/0install"><img src="https://imgur.com/uUR2tjR.png" alt="0installer"></a>
